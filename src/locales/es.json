@@ -1,0 +1,53 @@
+{
+    "message": "Hola i18n !!",
+    "menu": {
+        "home": "Inicio",
+        "clubs": "Clubs",
+        "players": "Jugadores",
+        "users": "Usuarios"
+    },
+    "clubs": {
+        "title": "Clubs"
+    },
+    "players": {
+        "title": "Jugadores",
+        "name": "Nombre",
+        "age": {
+            "text": "Edad",
+            "years": "{age} años"
+        },
+        "size": {
+            "text": "Altura",
+            "cm": "{weight} cm"
+        },
+        "height": {
+            "text": "Peso",
+            "kg": "{height} kg"
+        },
+        "gender": "Genero"
+    },
+    "users": {
+        "title": "Usuarios",
+        "name": "Nombre",
+        "gender": "Genero",
+        "email": "Email",
+        "phone": "Teléfono",
+        "address": "Dirección",
+        "city": "Ciudad",
+        "documentId": "DNI/NIE"
+    },
+    "error": {
+        "notFound": {
+            "title": "¿Estás perdido?",
+            "message": "Lo sentimos, no podemos encontrar la página que buscas",
+            "button": "Ir a Inicio"
+        }
+    },
+    "general": {
+        "loading": "Cargando...",
+        "technicalTest": "Examén Técnico",
+        "enterprise": {
+            "name": "PandaGo"
+        }
+    }
+}

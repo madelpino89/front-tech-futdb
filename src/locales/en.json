@@ -1,0 +1,60 @@
+{
+  "message": "hello i18n !!",
+  "menu": {
+    "home": "Home",
+    "clubs": "Clubs",
+    "players": "Players",
+    "users": "Users"
+  },
+  "clubs": {
+    "title": "Clubs"
+  },
+  "players": {
+    "title": "Player",
+    "name": "Name",
+    "age": {
+      "text": "Age",
+      "years": "{age} years"
+    },
+    "height": {
+      "text": "Height",
+      "cm": "{height} cm"
+    },
+    "weight": {
+      "text": "Weight",
+      "kg": "{weight} kg"
+    },
+    "gender": "Gender"
+  },
+  "users": {
+    "title": "Users",
+    "name": "Name",
+    "gender": "Gender",
+    "email": "Email",
+    "phone": "Phone",
+    "address": "Address",
+    "city": "City",
+    "documentId": "DNI/NIE"
+  },
+  "error": {
+    "notFound": {
+      "title": "Are you lost?",
+      "message": "Sorry, we couldn't find the page.",
+      "button": "Go back home"
+    }
+  },
+  "general": {
+    "loading": "Loading...",
+    "technicalTest": "Technical Test",
+    "enterprise": {
+      "name": "PandaGo"
+    }
+  },
+  "ui": {
+    "button": {
+      "players": {
+        "goToDetail": "Go to detail"
+      }
+    }
+  }
+}
